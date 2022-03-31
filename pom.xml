@@ -9,9 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <springBootVersion>
-            2.2.5.RELEASE
-        </springBootVersion>
+        <springBootVersion>2.5.12</springBootVersion>
     </properties>
 
     <dependencies>
